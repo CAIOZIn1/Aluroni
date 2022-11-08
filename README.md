@@ -27,4 +27,10 @@ npm install --save-dev sass
 npm install -D typescript-plugin-css-modules
 ```
 
+<h3>Para Instalar o normalize CSS:</h3>
+
+```
+npm install normalize.css
+```
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
