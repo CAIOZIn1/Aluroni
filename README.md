@@ -33,4 +33,10 @@ npm install -D typescript-plugin-css-modules
 npm install normalize.css
 ```
 
+<h3>Para Instalar os icons para o react:</h3>
+
+```
+npm install react-icons
+```
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
