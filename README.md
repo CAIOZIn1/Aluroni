@@ -39,4 +39,12 @@ npm install normalize.css
 npm install react-icons
 ```
 
+<h3>Instalar classnames no typereact:</h3>
+
+```
+npm install classnames
+
+obs.:Evita concatenação de classes no css
+```
+
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
