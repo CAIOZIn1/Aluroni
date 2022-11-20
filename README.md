@@ -5,7 +5,9 @@
 <h2>Sobre:</h2>
 <p>Projeto web desenvolvido para fundamentar e dar sequência a ensimanetos typescript/react</p>
 
->Projeto em desenvolvimento
+>Projeto finalizado
+
+>acesse a página clicando neste <a href='https://aluroni-lime.vercel.app/'>link</a>
 
 <br>
 
